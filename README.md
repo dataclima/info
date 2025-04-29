@@ -40,9 +40,9 @@ Se quiser sugerir melhorias, ideias ou parcerias, entre em contato!
 
 ## 📬 Contato
 
-- **Website:** [em breve]
-- **Email:** contato@dataclima.com.br (em breve)
-- **LinkedIn:** [em breve]
+- **Website:** www.dataclima.com.br [em breve]
+- **Email:** contato@dataclima.com.br
+- **LinkedIn:** [DataClima no LinkedIn](https://www.linkedin.com/company/dataclima/)
 
 ---
 
